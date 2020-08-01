@@ -1,1 +1,4 @@
-# setup-mac
+# Setup Mac
+
+* [Homebrew](homebrew.md)
+
