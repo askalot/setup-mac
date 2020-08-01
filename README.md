@@ -5,4 +5,5 @@
 * [Firefox](firefox.md)
 * [Zsh](zsh.md)
 * [Ruby](ruby.md)
+* [Vim](vim.md)
 
