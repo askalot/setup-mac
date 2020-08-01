@@ -7,4 +7,5 @@
 * [Ruby](ruby.md)
 * [Vim](vim.md)
 * [tmux](tmux.md)
+* [Git](git.md)
 
