@@ -14,18 +14,9 @@ ruby-install --latest ruby
 
 ## Disable gem documents installation
 
-Edit `~/.gemrc` and add:
-
-```
-gem: --no-document
-```
+Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gemrc` to `~/.gemrc`.
 
 ## Customise IRB
 
-Edit `~/.irbrc` and add:
-
-```
-IRB.conf[:PROMPT_MODE] = :SIMPLE
-IRB.conf[:AUTO_INDENT_MODE] = false
-```
+Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/irbrc` to `~/.irbrc`.
 
