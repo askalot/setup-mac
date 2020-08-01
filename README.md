@@ -8,4 +8,5 @@
 * [Vim](vim.md)
 * [tmux](tmux.md)
 * [Git](git.md)
+* [SSH](ssh.md)
 
