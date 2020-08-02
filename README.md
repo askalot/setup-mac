@@ -11,4 +11,5 @@
 * [SSH](ssh.md)
 * [Node.js](node.js.md)
 * [PostgreSQL](postgresql.md)
+* [Visual Studio](visual-studio.md)
 
