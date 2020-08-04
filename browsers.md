@@ -10,3 +10,15 @@ brew cask install firefox
 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
+## Install Edge
+
+```
+brew cask install microsoft-edge
+```
+
+## Install Chrome
+
+```
+brew cask install google-chrome
+```
+

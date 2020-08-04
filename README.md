@@ -2,7 +2,7 @@
 
 * [Homebrew](homebrew.md)
 * [iTerm2](iterm2.md)
-* [Firefox](firefox.md)
+* [Browsers](browsers.md)
 * [Zsh](zsh.md)
 * [Ruby](ruby.md)
 * [Vim](vim.md)
