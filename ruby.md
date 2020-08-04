@@ -12,6 +12,10 @@ brew install ruby-install chruby
 ruby-install --latest ruby
 ```
 
+## Add config
+
+Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/ruby-version` to `~/.ruby-version`.
+
 ## Disable gem documents installation
 
 Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gemrc` to `~/.gemrc`.
