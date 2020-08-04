@@ -10,3 +10,9 @@ brew install git
 
 Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gitconfig` to `~/.gitconfig`.
 
+## Install GitUp
+
+```
+brew cask install gitup
+```
+
