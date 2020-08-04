@@ -6,7 +6,7 @@
 gem install rails
 ```
 
-Requires [Node.js](ruby.md).
+Requires [Ruby](ruby.md).
 
 ## Install Yarn
 
