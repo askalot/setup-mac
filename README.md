@@ -17,4 +17,5 @@
 * [Utilities](utilities.md)
 * [Heroku](heroku.md)
 * [Elasticsearch](elasticsearch.md)
+* [Redis](redis.md)
 
