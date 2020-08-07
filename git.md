@@ -16,3 +16,9 @@ Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gitconfig` to `~
 brew cask install gitup
 ```
 
+## Install Sourcetree
+
+```
+brew cask install sourcetree
+```
+
