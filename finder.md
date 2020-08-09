@@ -20,13 +20,7 @@ brew cask install qlstephen
 brew cask install qlcolorcode
 ```
 
-### Install QuickLookJSON
-
-```
-brew cask install quicklook-json
-```
-
-### Install QLStephen
+### Install qlImageSize
 
 ```
 brew cask install qlimagesize
