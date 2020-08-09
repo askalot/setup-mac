@@ -26,6 +26,20 @@ brew cask install qlcolorcode
 brew cask install qlimagesize
 ```
 
+## Configure Quick Look plugins
+
+### See quarantine attributes
+
+```
+xattr -r ~/Library/QuickLook
+```
+
+### Remove quarantine attributes
+
+```
+xattr -d -r com.apple.quarantine ~/Library/QuickLook
+```
+
 ## Configure Finder
 
 ### Show Library folder
