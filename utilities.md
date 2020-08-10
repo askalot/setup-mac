@@ -18,3 +18,9 @@ brew install the_silver_searcher
 brew cask install rectangle
 ```
 
+## Install DB Browser for SQLite
+
+```
+brew cask install db-browser-for-sqlite
+```
+
