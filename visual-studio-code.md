@@ -16,6 +16,7 @@ code --install-extension esbenp.prettier-vscode
 code --install-extension file-icons.file-icons
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.auto-rename-tag
+code --install-extension vincaslt.highlight-matching-tag
 ```
 
 ## Add config
