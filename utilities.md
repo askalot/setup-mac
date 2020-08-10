@@ -9,7 +9,7 @@ brew install tree
 ## Install The Silver Searcher
 
 ```
-brew install ag
+brew install the_silver_searcher
 ```
 
 ## Install Rectangle
