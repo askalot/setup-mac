@@ -10,6 +10,12 @@ brew install git
 
 Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gitconfig` to `~/.gitconfig`.
 
+## Install gitsh
+
+```
+brew tap thoughtbot/formulae && brew install gitsh
+```
+
 ## Install GitUp
 
 ```
