@@ -12,6 +12,12 @@ brew install tree
 brew install the_silver_searcher
 ```
 
+## Install Wget
+
+```
+brew install wget
+```
+
 ## Install Rectangle
 
 ```
