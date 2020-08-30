@@ -30,3 +30,9 @@ brew cask install rectangle
 brew cask install db-browser-for-sqlite
 ```
 
+## Install VirtualBox
+
+```
+brew cask install virtualbox
+```
+
