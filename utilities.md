@@ -24,6 +24,12 @@ brew install wget
 brew cask install rectangle
 ```
 
+## Install Amethyst
+
+```
+brew cask install amethyst
+```
+
 ## Install DB Browser for SQLite
 
 ```
