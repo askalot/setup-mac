@@ -16,7 +16,10 @@ Open the `./new-moon.itermcolors`.
 
 ## Customise profile settings
 
-* `Preferences > Profiles > Colors > Color Presets > New Moon`
-* `Preferences > Profiles > Colors > Minimum Contrast > 25%`
-* `Preferences > Profiles > Text > Font > 16`
+* `Preferences > Appearance > General > Theme: Minimal`
+* `Preferences > Profiles > Colors > Color Presets: new-moon`
+* `Preferences > Profiles > Colors > Minimum Contrast: 25%`
+* `Preferences > Profiles > Text > Font: JetBrains Mono 16`
+* `Preferences > Profiles > General > Advanced Configuration > Working Directory for New Tabs: Reuse previous session's directory`
+* `Preferences > Profiles > General > Advanced Configuration > Working Directory for New Split Panes: Reuse previous session's directory`
 
