@@ -10,6 +10,12 @@ brew cask install firefox
 
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
+## Install Brave
+
+```
+brew cask install brave-browser
+```
+
 ## Install Edge
 
 ```
