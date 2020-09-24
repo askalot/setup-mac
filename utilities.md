@@ -42,3 +42,9 @@ brew cask install db-browser-for-sqlite
 brew cask install virtualbox
 ```
 
+## Install VLC media player
+
+```
+brew cask install vlc
+```
+
