@@ -12,3 +12,9 @@ brew cask install dotnet-sdk
 brew cask install visual-studio
 ```
 
+## Install Azure Data Studio
+
+```
+brew cask install azure-data-studio
+```
+
