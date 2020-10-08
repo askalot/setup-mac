@@ -36,6 +36,12 @@ brew cask install amethyst
 brew cask install db-browser-for-sqlite
 ```
 
+## Install Inkscape
+
+```
+brew cask install inkscape
+```
+
 ## Install VirtualBox
 
 ```
