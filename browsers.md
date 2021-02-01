@@ -28,3 +28,9 @@ brew cask install microsoft-edge
 brew cask install google-chrome
 ```
 
+## Install Lynx
+
+```
+brew install lynx
+```
+
