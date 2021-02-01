@@ -1,5 +1,11 @@
 # Utilities
 
+## Install autojump
+
+```
+brew install autojump
+```
+
 ## Install Tree
 
 ```
@@ -16,6 +22,12 @@ brew install the_silver_searcher
 
 ```
 brew install wget
+```
+
+## Install FFmpeg
+
+```
+brew install ffmpeg
 ```
 
 ## Install Rectangle
