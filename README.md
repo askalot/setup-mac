@@ -20,4 +20,5 @@
 * [Redis](redis.md)
 * [Finder](finder.md)
 * [Fonts](fonts.md)
+* [Eclipse](eclipse.md)
 
