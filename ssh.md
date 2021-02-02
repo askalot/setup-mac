@@ -9,7 +9,7 @@ mkdir ~/.ssh && cd ~/.ssh
 ## Generate new SSH key
 
 ```
-ssh-keygen -t rsa -b 4096 -C "username@domain.tld" -f id_rsa
+ssh-keygen -t ed25519 -C "username@domain.tld" -f id_ed25519
 ```
 
 Save to password manager:
@@ -34,6 +34,13 @@ Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/sshconfig` to `~
 ## Add SSH private key to ssh-agent
 
 ```
-ssh-add -K ~/.ssh/id_rsa
+ssh-add -K ~/.ssh/id_ed25519
 ```
 
+## Copy public key
+
+```
+pbcopy < ~/.ssh/id_ed25519
+```
+
+Add the public key to the relevant remote machines.
