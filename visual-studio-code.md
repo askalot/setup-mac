@@ -21,5 +21,5 @@ code --install-extension vincaslt.highlight-matching-tag
 
 ## Add config
 
-Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/codeusersettings.json` to `~/Library/Application Support/Code/User/settings.json`.
+Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/vscode/settings.json` to `~/Library/Application Support/Code/User/settings.json`.
 
