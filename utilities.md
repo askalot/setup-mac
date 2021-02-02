@@ -36,12 +36,6 @@ brew install ffmpeg
 brew cask install rectangle
 ```
 
-## Install Amethyst
-
-```
-brew cask install amethyst
-```
-
 ## Install DB Browser for SQLite
 
 ```
