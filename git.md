@@ -16,12 +16,6 @@ Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gitconfig` to `~
 brew tap thoughtbot/formulae && brew install gitsh
 ```
 
-## Install GitUp
-
-```
-brew cask install gitup
-```
-
 ## Install Sourcetree
 
 ```
