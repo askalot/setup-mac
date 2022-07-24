@@ -9,7 +9,7 @@ brew install ruby-install chruby
 ## Install latest version of Ruby
 
 ```
-ruby-install --latest ruby
+ruby-install --latest --cleanup ruby
 ```
 
 ## Add config
