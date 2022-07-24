@@ -10,6 +10,7 @@
 * [Git](git.md)
 * [SSH](ssh.md)
 * [Node.js](node.js.md)
+* [Deno](deno.md)
 * [PostgreSQL](postgresql.md)
 * [Visual Studio](visual-studio.md)
 * [VSCodium](visual-studio-code.md)
