@@ -60,3 +60,26 @@ brew install --cask virtualbox
 brew install --cask vlc
 ```
 
+## Install Insomnia
+
+```
+brew install --cask insomnia
+```
+
+## Install jq
+
+```
+brew install jq
+```
+
+## Install youtube-dl
+
+```
+brew install youtube-dl
+```
+
+## Install imagemagick
+
+```
+brew install imagemagick
+```
