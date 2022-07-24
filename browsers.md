@@ -3,7 +3,7 @@
 ## Install Firefox
 
 ```
-brew cask install firefox
+brew install --cask firefox
 ```
 
 ## Install Firefox extensions
@@ -13,19 +13,19 @@ brew cask install firefox
 ## Install Brave
 
 ```
-brew cask install brave-browser
+brew install --cask brave-browser
 ```
 
 ## Install Edge
 
 ```
-brew cask install microsoft-edge
+brew install --cask microsoft-edge
 ```
 
 ## Install Chrome
 
 ```
-brew cask install google-chrome
+brew install --cask google-chrome
 ```
 
 ## Install Lynx

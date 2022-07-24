@@ -3,18 +3,18 @@
 ## Install .Net Core SDK
 
 ```
-brew cask install dotnet-sdk
+brew install --cask dotnet-sdk
 ```
 
 ## Install Visual Studio
 
 ```
-brew cask install visual-studio
+brew install --cask visual-studio
 ```
 
 ## Install Azure Data Studio
 
 ```
-brew cask install azure-data-studio
+brew install --cask azure-data-studio
 ```
 

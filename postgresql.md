@@ -9,12 +9,12 @@ brew install postgresql
 ## Install Postgres.app
 
 ```
-brew cask install postgres
+brew install --cask postgres
 ```
 
 ## Install Postico
 
 ```
-brew cask install postico
+brew install --cask postico
 ```
 

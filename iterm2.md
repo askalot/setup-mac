@@ -3,7 +3,7 @@
 ## Install iTerm2
 
 ```
-brew cask install iterm2
+brew install --cask iterm2
 ```
 
 ## Install New Moon theme

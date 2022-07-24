@@ -33,30 +33,30 @@ brew install ffmpeg
 ## Install Rectangle
 
 ```
-brew cask install rectangle
+brew install --cask rectangle
 ```
 
 ## Install DB Browser for SQLite
 
 ```
-brew cask install db-browser-for-sqlite
+brew install --cask db-browser-for-sqlite
 ```
 
 ## Install Inkscape
 
 ```
-brew cask install inkscape
+brew install --cask inkscape
 ```
 
 ## Install VirtualBox
 
 ```
-brew cask install virtualbox
+brew install --cask virtualbox
 ```
 
 ## Install VLC media player
 
 ```
-brew cask install vlc
+brew install --cask vlc
 ```
 

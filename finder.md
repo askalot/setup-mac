@@ -5,25 +5,25 @@
 ### Install QLMarkdown
 
 ```
-brew cask install qlmarkdown
+brew install --cask qlmarkdown
 ```
 
 ### Install QLStephen
 
 ```
-brew cask install qlstephen
+brew install --cask qlstephen
 ```
 
 ### Install QLColorCode
 
 ```
-brew cask install qlcolorcode
+brew install --cask qlcolorcode
 ```
 
 ### Install qlImageSize
 
 ```
-brew cask install qlimagesize
+brew install --cask qlimagesize
 ```
 
 ## Configure Quick Look plugins

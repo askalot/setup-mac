@@ -3,7 +3,7 @@
 ## Install Visual Studio Code
 
 ```
-brew cask install visual-studio-code
+brew install --cask visual-studio-code
 ```
 
 ## Install extensions

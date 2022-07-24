@@ -9,12 +9,12 @@ brew tap homebrew/cask-fonts
 ## Install JetBrains Mono font
 
 ```
-brew cask install font-jetbrains-mono
+brew install --cask font-jetbrains-mono
 ```
 
 ## Install Inter font
 
 ```
-brew cask install font-inter
+brew install --cask font-inter
 ```
 

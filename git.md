@@ -19,6 +19,6 @@ brew tap thoughtbot/formulae && brew install gitsh
 ## Install Sourcetree
 
 ```
-brew cask install sourcetree
+brew install --cask sourcetree
 ```
 
