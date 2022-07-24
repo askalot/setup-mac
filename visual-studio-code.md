@@ -1,9 +1,9 @@
 # Visual Studio Code
 
-## Install Visual Studio Code
+## Install VSCodium
 
 ```
-brew install --cask visual-studio-code
+brew install --cask vscodium
 ```
 
 ## Install extensions
