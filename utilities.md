@@ -83,3 +83,9 @@ brew install youtube-dl
 ```
 brew install imagemagick
 ```
+
+# Install lazygit
+
+```
+brew install lazygit
+```
