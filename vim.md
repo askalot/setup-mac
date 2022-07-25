@@ -6,6 +6,12 @@
 brew install vim
 ```
 
+## Install MacVim
+
+```
+brew install macvim
+```
+
 ## Install vim-plug
 
 ```
@@ -16,6 +22,8 @@ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 ## Add config
 
 Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/vimrc` to `~/.vimrc`.
+
+Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gvimrc` to `~/.gvimrc`.
 
 ## Install plugins
 
