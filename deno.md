@@ -3,6 +3,11 @@
 ## Install
 
 ```
-brew install deno
+asdf install deno latest
 ```
 
+## Add config
+
+```
+asdf global deno latest
+```

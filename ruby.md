@@ -1,20 +1,16 @@
 # Ruby
 
-## Install chruby
+## Install
 
 ```
-brew install ruby-install chruby
-```
-
-## Install latest version of Ruby
-
-```
-ruby-install --latest --cleanup ruby
+asdf install ruby latest
 ```
 
 ## Add config
 
-Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/ruby-version` to `~/.ruby-version`.
+```
+asdf global ruby latest
+```
 
 ## Disable gem documents installation
 
@@ -23,4 +19,3 @@ Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/gemrc` to `~/.ge
 ## Customise IRB
 
 Copy `https://raw.githubusercontent.com/askalot/dotfiles/master/irbrc` to `~/.irbrc`.
-
